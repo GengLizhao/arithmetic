@@ -13,6 +13,7 @@
 		AE4BDDDC251C76C700D8846A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AE4BDDDA251C76C700D8846A /* Main.storyboard */; };
 		AE4BDDDE251C76C900D8846A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AE4BDDDD251C76C900D8846A /* Assets.xcassets */; };
 		AE4BDDE1251C76C900D8846A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AE4BDDDF251C76C900D8846A /* LaunchScreen.storyboard */; };
+		AE4BDDE9251C771500D8846A /* Solution.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE4BDDE8251C771500D8846A /* Solution.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		AE4BDDDD251C76C900D8846A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AE4BDDE0251C76C900D8846A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AE4BDDE2251C76C900D8846A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AE4BDDE8251C771500D8846A /* Solution.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Solution.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				AE4BDDD4251C76C700D8846A /* AppDelegate.swift */,
 				AE4BDDD6251C76C700D8846A /* SceneDelegate.swift */,
 				AE4BDDD8251C76C700D8846A /* ViewController.swift */,
+				AE4BDDE8251C771500D8846A /* Solution.swift */,
 				AE4BDDDA251C76C700D8846A /* Main.storyboard */,
 				AE4BDDDD251C76C900D8846A /* Assets.xcassets */,
 				AE4BDDDF251C76C900D8846A /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				AE4BDDD9251C76C700D8846A /* ViewController.swift in Sources */,
 				AE4BDDD5251C76C700D8846A /* AppDelegate.swift in Sources */,
+				AE4BDDE9251C771500D8846A /* Solution.swift in Sources */,
 				AE4BDDD7251C76C700D8846A /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
